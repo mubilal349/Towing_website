@@ -3,7 +3,7 @@ This project focuses on clean UI, fast loading, and simple navigation.
 
 Live Demo
 
-👉 https://https://sulemantowingservices.ca
+👉 https://sulemantowingservices.ca
 
 Features
 
